@@ -1,0 +1,16 @@
+﻿
+#container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border: solid 1px #000;
+}
+#divBg{
+    margin:100px auto;
+    width:600px;
+    height:400px;
+    background-color:#e0d9d9;
+}
+#inputBtn{
+    margin:25px auto;
+}
